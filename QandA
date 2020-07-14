@@ -2,6 +2,6 @@
 ② $('#btn-evaluation').click(function() { ~ }); = D
 ③ $('#national_language, #english, #mathematics, #science, #society').change(function() { ~ }); = F
 ④ $('#national_language').val() = A
-⑤ Number() =C
+⑤ Number() = C
 ⑥ $("#sum_indicate").text(sum); = B
-⑦ .append = Ds
+⑦ .append = D
