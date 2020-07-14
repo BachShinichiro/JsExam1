@@ -1,0 +1,7 @@
+① $(document).ready(function(){ ~ }); = A
+② $('#btn-evaluation').click(function() { ~ }); = E
+③ $('#national_language, #english, #mathematics, #science, #society').change(function() { ~ }); = F
+④ $('#national_language').val() = A
+⑤ Number() = A
+⑥ $("#sum_indicate").text(sum); = B
+⑦ .append = Ds
